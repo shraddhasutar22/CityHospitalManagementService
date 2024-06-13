@@ -2,7 +2,7 @@
 
 <h4>Working Links for the Project :<h4> </br>
 Web Application hosted on Azure -> (http://52.136.116.225/City%20hospital%20management%20service/) </br>
-Github Repository -> [![Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/username/repository)
+Github Repository -> [![Here](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/)
 
 Project Documentation With Project Video-> 
 
