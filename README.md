@@ -1,8 +1,9 @@
-CityHospitalManagementSystem
+<h1>CityHospitalManagementSystem</h1>
 
-Working Links for the Project
-Web Application hosted on Azure -> City Hospital Management System
-Github Repository -> 
+<h4>Working Links for the Project :<h4> </br>
+Web Application hosted on Azure -> (http://52.136.116.225/City%20hospital%20management%20service/) </br>
+Github Repository -> [![Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/username/repository)
+
 Project Documentation With Project Video-> 
 
 Project Aim
