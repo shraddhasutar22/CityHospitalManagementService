@@ -24,8 +24,18 @@ Web Technologies Used ->
 4.PHP</br>
 5.MySQL</br>
 </br>
-Resource Visualizer</br>
+<h4>Resource Visualizer</h4>></br>
 ![Project Visualizer](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/a25add94-02b6-4583-b652-c6a8c3e12357)
+</br>
+<h4>Azure Resources Overview</h4> </br>
+Virtual Machine : </br>
+![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/8cc65067-f9eb-4db6-9554-7efb1c9e3b2f) </br>
+![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/d072d7b4-4559-4ca2-8bcb-03b3b60723c9) </br>
+![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/80d81f6a-31e2-47d8-9ee3-6676ae99c46b) </br>
+![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/e67aadeb-f333-4641-a08b-6e777618bd6d) </br>
+![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/86f717a3-e0a3-4b69-b6d6-cd4131a7ab7c) </br>
+![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/fccbfd91-2792-4ac0-9a97-a6041717a946) </br>
+![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/172eb3d8-7ee6-4967-97ec-ac0e9abae498) </br>
 
 
 
@@ -35,8 +45,6 @@ Resource Visualizer</br>
 
 
 
-
-Azure Resources Overview
 
 Deployment:
 
