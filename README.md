@@ -42,14 +42,6 @@ Virtual Machine : </br>
 
 
 
-
-Deployment:
-
-
-
-
-
-
 Azure AI Service:
 
 
@@ -67,6 +59,14 @@ Azure Backup:
 
 
 Azure Storage:
+
+
+
+
+
+
+
+Monitoring Sevice :  
 
 
 
