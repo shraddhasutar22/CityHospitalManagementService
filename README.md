@@ -7,7 +7,7 @@ Project Documentation With Project Video-> </br>
 <h4>Project Aim :- </h4></br>
 The aim of the "City Hospital Management System" project is to revolutionize the way hospitals interact with their patients and staff by leveraging modern technology such as Azure services like AI ChatBot, Azure Web App, and more. These technologies alleviate the load on the developers and create a system that is user-friendly and reliable. The primary goal is to streamline the management of hospital operations, including patient admissions, scheduling, and medical records management, while offering a seamless experience for staff and patients alike. By developing an intuitive online platform, CityCare aims to enhance patient satisfaction, improve operational efficiency, and drive growth for healthcare facilities.
 </br>
-Azure Services Used ->
+<h4>Azure Services Used -></h4>
 </br>
 1.Azure Virtual Manchine (To create and host the website)</br>
 2.Azure AI Service (An ai service(chatbot) integrated into the website)</br>
@@ -15,7 +15,7 @@ Azure Services Used ->
 4.Azure Storage Service(To store backup files)</br>
 5.Azure Monitoring Service(To monitor the usage)</br>
 </br>
-Web Technologies Used ->
+<h4>Web Technologies Used -></h4>
 </br>
 1.HTML</br>
 2.CSS</br>
