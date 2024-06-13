@@ -24,7 +24,7 @@ Web Technologies Used ->
 4.PHP</br>
 5.MySQL</br>
 </br>
-<h4>Resource Visualizer</h4>></br>
+<h4>Resource Visualizer</h4></br>
 ![Project Visualizer](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/a25add94-02b6-4583-b652-c6a8c3e12357)
 </br>
 <h4>Azure Resources Overview</h4> </br>
