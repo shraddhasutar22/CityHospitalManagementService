@@ -10,21 +10,23 @@ The aim of the "City Hospital Management System" project is to revolutionize the
 </br>
 Azure Services Used ->
 </br>
-1.Azure Virtual Manchine (To create and host the website)
-2.Azure AI Service (An ai service(chatbot) integrated into the website)
-3.Azure BackUp Service (To create a Backup of our Web App)
-4.Azure Storage Service(To store backup files)
-5.Azure Monitoring Service(To monitor the usage)
+1.Azure Virtual Manchine (To create and host the website)</br>
+2.Azure AI Service (An ai service(chatbot) integrated into the website)</br>
+3.Azure BackUp Service (To create a Backup of our Web App)</br>
+4.Azure Storage Service(To store backup files)</br>
+5.Azure Monitoring Service(To monitor the usage)</br>
 </br>
 Web Technologies Used ->
 </br>
-1.HTML
-2.CSS
-3.JavaScript
-4.PHP
-5.MySQL
+1.HTML</br>
+2.CSS</br>
+3.JavaScript<br>
+4.PHP</br>
+5.MySQL</br>
 </br>
-Resource Visualizer
+Resource Visualizer</br>
+(https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/Project Visualizer.jpg)
+
 
 
 
