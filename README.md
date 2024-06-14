@@ -1,7 +1,7 @@
 # Working Links
 - **Website Link** : <a href="http://52.136.116.225/City%20hospital%20management%20service/" rel="nofollow">City Hospital Management Service</a>
 - **GitHub Repository Link** : <a href="https://github.com/shraddhasutar22/CityHospitalManagementService" rel="nofollow">shraddhasutar22/CityHospitalManagementService</a>
-- **Project Video** : <a href="https://drive.google.com/drive/folders/183CLNbKqGKvfNKzvYOLamL9p_JlB8cBm?usp=sharing" rel="nofollow">Video</a>
+- **Project Video** : <a href="https://drive.google.com/file/d/1_Olw9cBC28RdMbPJWXGM8kvkExDbdiM8/view?usp=sharing" rel="nofollow">Video</a>
 - **Project Documentation** : <a href="https://drive.google.com/file/d/1aqhxSAq4LQ6NSfuC9raD2mli5SU9sm92/view?usp=sharing" rel="nofollow">Documentation</a>
 
 # City Hospital Management Service 
