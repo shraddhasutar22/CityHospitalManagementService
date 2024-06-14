@@ -1,84 +1,196 @@
-<h1>City Hospital Management System</h1>
-<h4>Working Links for the Project : </h4>
-Web Application hosted on Azure -> (https://52.136.116.225/City%20hospital%20management%20service/) </br>
-Github Repository -> (https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/)</br>
-Project Documentation With Project Video-> </br>
+# Working Links
+- **Website Link** : <a href="http://52.136.116.225/City%20hospital%20management%20service/" rel="nofollow">City Hospital MAnagement Service</a>
+- **Project Video** : <a href="https://drive.google.com/file/d/1g3A2G105p5Ts1O9QPhVU-khmpqjW1i-T/view?usp=sharing" rel="nofollow">Video</a>
+- **Project Documentation** : <a href="https://drive.google.com/file/d/1aPbakzsa6-G7Z8WERGJCZ76n6Vyv9FAu/view?usp=sharing" rel="nofollow">Documentation</a>
 
-<h4>Project Aim :- </h4>
-The aim of the "City Hospital Management System" project is to revolutionize the way hospitals interact with their patients and staff by leveraging modern technology such as Azure services like AI ChatBot, Azure Web App, and more. These technologies alleviate the load on the developers and create a system that is user-friendly and reliable. The primary goal is to streamline the management of hospital operations, including patient admissions, scheduling, and medical records management, while offering a seamless experience for staff and patients alike. By developing an intuitive online platform, CityCare aims to enhance patient satisfaction, improve operational efficiency, and drive growth for healthcare facilities.
-</br>
-<h4>Azure Services Used -></h4>
-1.Azure Virtual Manchine (To create and host the website)</br>
-2.Azure AI Service (An ai service(chatbot) integrated into the website)</br>
-3.Azure BackUp Service (To create a Backup of our Web App)</br>
-4.Azure Storage Service(To store backup files)</br>
-5.Azure Monitoring Service(To monitor the usage)</br>
-</br>
-<h4>Web Technologies Used -></h4>
-1.HTML</br>
-2.CSS</br>
-3.JavaScript<br>
-4.PHP</br>
-5.MySQL</br>
-</br>
-<h4>Resource Visualizer</h4></br>
-![Project Visualizer](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/a25add94-02b6-4583-b652-c6a8c3e12357)
-</br>
-<h4>Azure Resources Overview</h4> </br>
-Virtual Machine : </br>
-![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/8cc65067-f9eb-4db6-9554-7efb1c9e3b2f) </br>
-![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/d072d7b4-4559-4ca2-8bcb-03b3b60723c9) </br>
-![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/80d81f6a-31e2-47d8-9ee3-6676ae99c46b) </br>
-![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/e67aadeb-f333-4641-a08b-6e777618bd6d) </br>
-![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/86f717a3-e0a3-4b69-b6d6-cd4131a7ab7c) </br>
-![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/fccbfd91-2792-4ac0-9a97-a6041717a946) </br>
-![image](https://github.com/shraddhasutar22/CityHospitalManagementService/assets/151512406/172eb3d8-7ee6-4967-97ec-ac0e9abae498) </br>
+# Vision Compute
 
+Vision Compute is a web application that leverages Azure Cognitive Services to provide image processing features such as text extraction, object detection, and caption generation. This application allows users to upload images or capture images using their device's camera and process them using the Azure Computer Vision API.
 
+## Features
 
+- **Extract Text**: Uses Azure's OCR (Optical Character Recognition) to extract text from images.
+- **Detect Objects**: Identifies and labels objects within an image.
+- **Add Captions**: Generates descriptive captions for the content in an image.
 
+## Azure Cognitive Services
 
+This project utilizes Azure's Computer Vision API for the following functionalities:
+- **OCR (Optical Character Recognition)**: Extracts text from images. Endpoint: `/vision/v3.1/ocr`.
+- **Object Detection**: Detects objects within an image and labels them. Endpoint: `/vision/v3.1/detect`.
+- **Image Description (Dense Captions)**: Generates captions for the image, describing the scene in natural language. Endpoint: `/vision/v3.1/describe`.
 
+### Prerequisites
 
+- Azure subscription and access to Azure Cognitive Services.
+- Azure App Service to host the application files.
 
+## File Structure
 
-Azure AI Service:
+- `index.html`: The main HTML file containing the structure of the web application.
+- `styles.css`: The CSS file for styling the application.
+- `script.js`: The JavaScript file containing the logic for interacting with Azure Cognitive Services and handling image processing.
 
+## Usage
 
+1. **Upload Image**: Click on "Upload Image" and select an image from your device.
+2. **Open Camera**: Click on "Open Camera" to capture an image using your device's camera.
+3. **Select Feature**: Choose the desired feature from the dropdown menu.
+4. **Submit**: Click on "Submit" to process the image and display the results.
 
+## Resource Visualizer
 
+![Computer Vision](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/Project%20Visualizer.jpg?raw=true)
 
+## Deployment Steps
 
+Search for Computer Vision on Azure portal.
 
-Azure Backup:
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/1.png?raw=true)
 
+Click on create to create new resource.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/2.png?raw=true)
 
+Fill all the required information as shown and click on Review + Create.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/3.png?raw=true)
 
+Once it is deployed successfully navigate to keys and endpoint and copy the key.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/4.png?raw=true)
 
-Azure Storage:
+Paste the copied key in script.js as shown below
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/5.png?raw=true)
 
+Aslo copy the Endpoint URL.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/6.png?raw=true)
 
+Paste the copied Endpoint URL in script.js as shown below 
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/7.png?raw=true)
 
+Then to save the changes click on commit changes with specefic commit message.
 
-Monitoring Sevice :  
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/8.png?raw=true)
 
+Now we need to use Azure App Services to deploy our webpage. Search for App Services on your Azure portal.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/9.png?raw=true)
 
+Create a Web App
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/10.png?raw=true)
 
+Fill all the required information as shown below.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/11.png?raw=true)
 
-WebSite Preview
+Select the pricing plan as per your requirements.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/12.png?raw=true)
 
+Now to deploy the project from github navigate to Deployment tab and enable continuous deployment and click on Authorize.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/13.png?raw=true)
 
-This is the City Hospital Management System Project created for internship purposes.
+Now sign-in to your github account and click on Authorize AzureAppService.
 
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/14.png?raw=true)
+
+Now select your organization, repository & branch and enable basic authentication.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/15.png?raw=true)
+
+And click on create. Once created deployment process will start automatically.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/16.png?raw=true)
+
+Now lets create one storage account which we'll use later for backup purpose of our web app. Search for Storage Accounts on the Azure portal.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/17.png?raw=true)
+
+Fill all the required information as shown below.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/18.png?raw=true)
+
+Now navigate to Advanced tab and click on "Allow enabling anonymous access on individual container" for anonymous access.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/19.png?raw=true)
+
+Now click on review + create.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/20.png?raw=true)
+
+Now we need to create one container to store our backup files. Follow the steps shown below.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/21.png?raw=true)
+
+Now go back to App service and in settings click on backups and select the storage account and the container which you have created earlier and set the backup schedule as per your requirements. 
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/22.png?raw=true)
+
+Now to get alert whenever the App service is restarted. Search for Monitor on the Azure portal. 
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/23.png?raw=true)
+
+Click on Alerts and create new alert rule.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/24.png?raw=true)
+
+Select your web app from the resource group and click on apply. 
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/25.png?raw=true)
+
+Now navigate to condition and from see all signals search for "Restart web app" and click on apply.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/26.png?raw=true)
+
+Now navigate to Actions and create new action group.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/27.png?raw=true)
+
+Fill all the required information as shown below.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/28.png?raw=true)
+
+Navigate to Notifications and add your email and phone number to which alert will be sent and click OK.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/29.png?raw=true)
+
+Navigate to details tab name the action rule.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/30.png?raw=true)
+
+Once all done click on review + create and click on create.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/31.png?raw=true)
+
+## Project Demo
+
+Homepage of project
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/32.png?raw=true)
+
+## Features
+
+### 1. Extract Text.
+
+Upload/Capture any image with text in it select the Extract Text feature and click submit and results will be shown below.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/33.png?raw=true)
+
+### 2. Detect Object
+
+Upload/Capture any image with object in it select the Detect Object feature and click submit and results will be shown below.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/34.png?raw=true)
+
+### 3. Add Caption
+
+Upload/Capture any image select the Add Captions feature and click submit and results will be shown below.
+
+![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/35.png?raw=true)
 
