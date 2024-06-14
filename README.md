@@ -1,42 +1,42 @@
 # Working Links
-- **Website Link** : <a href="http://52.136.116.225/City%20hospital%20management%20service/" rel="nofollow">City Hospital MAnagement Service</a>
+- **Website Link** : <a href="http://52.136.116.225/City%20hospital%20management%20service/" rel="nofollow">City Hospital Management Service</a>
 - **Project Video** : <a href="https://drive.google.com/file/d/1g3A2G105p5Ts1O9QPhVU-khmpqjW1i-T/view?usp=sharing" rel="nofollow">Video</a>
 - **Project Documentation** : <a href="https://drive.google.com/file/d/1aPbakzsa6-G7Z8WERGJCZ76n6Vyv9FAu/view?usp=sharing" rel="nofollow">Documentation</a>
 
-# Vision Compute
+#  City Hospital Management Service 
 
-Vision Compute is a web application that leverages Azure Cognitive Services to provide image processing features such as text extraction, object detection, and caption generation. This application allows users to upload images or capture images using their device's camera and process them using the Azure Computer Vision API.
+The aim of the "City Hospital Management System" project is to revolutionize the way hospitals interact with their patients and staff by leveraging modern technology such as Azure services like AI ChatBot, Azure Web App, and more. These technologies alleviate the load on the developers and create a system that is user-friendly and reliable. The primary goal is to streamline the management of hospital operations, including patient admissions, scheduling, and medical records management, while offering a seamless experience for staff and patients alike. By developing an intuitive online platform, City Hospital aims to enhance patient satisfaction, improve operational efficiency, and drive growth for healthcare facilities.
 
 ## Features
 
-- **Extract Text**: Uses Azure's OCR (Optical Character Recognition) to extract text from images.
-- **Detect Objects**: Identifies and labels objects within an image.
-- **Add Captions**: Generates descriptive captions for the content in an image.
+- **Azure Virtual Manchine**: To create and host the website.
+- **Azure BackUp Service**: To create a Backup of our Web App.
+- **Azure Storage Service**: To store backup files.
+- **Azure Monitoring Service**: To monitor the usage
 
 ## Azure Cognitive Services
 
-This project utilizes Azure's Computer Vision API for the following functionalities:
-- **OCR (Optical Character Recognition)**: Extracts text from images. Endpoint: `/vision/v3.1/ocr`.
-- **Object Detection**: Detects objects within an image and labels them. Endpoint: `/vision/v3.1/detect`.
-- **Image Description (Dense Captions)**: Generates captions for the image, describing the scene in natural language. Endpoint: `/vision/v3.1/describe`.
+This project utilizes Azure's AI Service for the following functionalities:
+- **Query ChatBot**: Taking queries from the user and giving proper responds to there queries.
 
 ### Prerequisites
 
 - Azure subscription and access to Azure Cognitive Services.
-- Azure App Service to host the application files.
+- Azure Virtual Machine With XAMPP to host the application files.
 
 ## File Structure
 
-- `index.html`: The main HTML file containing the structure of the web application.
+- `index.php`: The main PHP file containing the structure of the web application.
 - `styles.css`: The CSS file for styling the application.
-- `script.js`: The JavaScript file containing the logic for interacting with Azure Cognitive Services and handling image processing.
+- `script.php`: The JavaScript file containing the logic for interacting with Azure Cognitive Services.
 
 ## Usage
 
-1. **Upload Image**: Click on "Upload Image" and select an image from your device.
-2. **Open Camera**: Click on "Open Camera" to capture an image using your device's camera.
-3. **Select Feature**: Choose the desired feature from the dropdown menu.
-4. **Submit**: Click on "Submit" to process the image and display the results.
+1. **Book Appointment**: Click on "Book Appointment" to add appointment details inside the hospital data.
+2. **Patient Login**: Click on "Patient Login" to go to the personal user dashboard and do further operations.
+3. **Doctors Login**: Click on "Doctor Login" to go to the personal doctor dashboard and do further changes in appointments.
+4. **Admin Login**: Click on "Admin Login" to go to the admins dashboard where admin can find and manage all the details of hospital management.
+5. **Chat With Us**: By scrolling down we get one ChatBot AI where we can write our queries which give us satisfied reply.
 
 ## Resource Visualizer
 
@@ -44,7 +44,7 @@ This project utilizes Azure's Computer Vision API for the following functionalit
 
 ## Deployment Steps
 
-Search for Computer Vision on Azure portal.
+Search for City Hospital Management Service on Azure portal.
 
 ![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/1.png?raw=true)
 
