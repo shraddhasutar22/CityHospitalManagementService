@@ -3,7 +3,7 @@
 - **Project Video** : <a href="https://drive.google.com/file/d/1g3A2G105p5Ts1O9QPhVU-khmpqjW1i-T/view?usp=sharing" rel="nofollow">Video</a>
 - **Project Documentation** : <a href="https://drive.google.com/file/d/1aPbakzsa6-G7Z8WERGJCZ76n6Vyv9FAu/view?usp=sharing" rel="nofollow">Documentation</a>
 
-#  City Hospital Management Service 
+# City Hospital Management Service 
 
 The aim of the "City Hospital Management System" project is to revolutionize the way hospitals interact with their patients and staff by leveraging modern technology such as Azure services like AI ChatBot, Azure Web App, and more. These technologies alleviate the load on the developers and create a system that is user-friendly and reliable. The primary goal is to streamline the management of hospital operations, including patient admissions, scheduling, and medical records management, while offering a seamless experience for staff and patients alike. By developing an intuitive online platform, City Hospital aims to enhance patient satisfaction, improve operational efficiency, and drive growth for healthcare facilities.
 
@@ -60,7 +60,7 @@ Hosting project through virtual machine on Azure portal.
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/Image%2020.png?raw=true)
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/Image%2021.png?raw=true)
 
-Creation of an azure storage account service.
+## Creation of an azure storage account service.
 
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/storage%201.png?raw=true)
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/storage%202.png?raw=true)
@@ -73,7 +73,7 @@ Creation of an azure storage account service.
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/storage%209.png?raw=true)
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/storage%2010.png?raw=true)
 
-Creation of Azure AI Service.
+## Creation of Azure AI Service.
 
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/AI%201.png?raw=true)
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/AI%202.png?raw=true)
@@ -98,7 +98,7 @@ Creation of Azure AI Service.
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/AI%2021.png?raw=true)
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/AI%2022.png?raw=true)
 
-Creation of Azure Backup Services. 
+## Creation of Azure Backup Services. 
 
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/backup%201.png?raw=true)
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/backup%202.png?raw=true)
@@ -108,7 +108,7 @@ Creation of Azure Backup Services.
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/backup%206.png?raw=true)
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/backup%207.png?raw=true)
 
-Creation of Azure Monitoring Service.
+## Creation of Azure Monitoring Service.
 
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/alert%201.png?raw=true)
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/alert%202.png?raw=true)
@@ -118,11 +118,15 @@ Creation of Azure Monitoring Service.
 
 ## Website Preview.
 
-Homepage of project
+![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/web%201.png?raw=true)
+![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/web%202.png?raw=true)
+![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/web%203.png?raw=true)
+![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/web%204.png?raw=true)
+![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/web%205.png?raw=true)
+![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/web%206.png?raw=true)
+![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/web%207.png?raw=true)
 
-![Computer Vision](https://github.com/sahildsouza/vision-compute/blob/main/images/32.png?raw=true)
 
-
-### 3. 
+### This is the City Hospital Management Service Project created for internship purposes. 
 
 
