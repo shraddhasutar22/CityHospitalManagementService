@@ -128,6 +128,6 @@ Hosting project through virtual machine on Azure portal.
 ![City Hospital Management Service](https://github.com/shraddhasutar22/CityHospitalManagementService/blob/master/images/web%207.png?raw=true)
 
 
-### This is the City Hospital Management Service Project created for internship purposes. 
+### This is the City Hospital Management Service Project created for internship purpose. 
 
 
